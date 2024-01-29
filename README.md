@@ -1,3 +1,5 @@
+----TABLE DE CONTROL LINEA 148 - COVID-19----
+
 El panel de control se realizo en Power BI. Las mismas es un panel de control de análisis de la evolución del Covid en la provincia de Buenos Aires.
 Los datos fueron extraidos de la línea 148 COVID 19.
 La base de  datos se encuentra alojada en la plataforma de AWS y importada con la herramientas de conexión de Power BI.
